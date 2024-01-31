@@ -1,2 +1,2 @@
 echo "hello test script"
-echo "something is wrong here
+echo "something is wrong here"
